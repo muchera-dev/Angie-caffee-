@@ -318,7 +318,7 @@ footer{
     .home{
         display:grid;
         grid-template-columns: 1fr;
-        padding-top: 30px;
+        padding-top: 60px;
         row-gap: 20px;
         height:109vh;
     }
